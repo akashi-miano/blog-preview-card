@@ -78,7 +78,7 @@ body {
 
 @media screen and (max-width: 550px) {
   html {
-    font-size: 0.8;
+    font-size: 0.8rem;
   }
   .card {
     text-align: center;
